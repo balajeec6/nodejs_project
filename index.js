@@ -26,6 +26,7 @@ app.get('/', (req, res) => {
             <h1>This is to explore more in DevOps world!, Thank you very much, keep loving , thankyou <3 </h1>
             <p>Let's learn together</p>
             <p>This is another project in CI/CD pipeline</p>
+            <p>Thank you again</p>
         </body>
         </html>
     `);
